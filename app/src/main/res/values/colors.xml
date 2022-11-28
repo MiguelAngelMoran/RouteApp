@@ -8,4 +8,6 @@
     <color name="green_dark">#88c399</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="color_fodorange">#f37335</color>
+    <color name="color_fonyellow">#fdc830</color>
 </resources>

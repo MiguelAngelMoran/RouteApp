@@ -5,11 +5,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     >
     <RelativeLayout
-        android:id=""
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context= ".View.ui.activities.MainActivity"
         >
+
         <com.airbnb.lottie.LottieAnimationView
             android:id="@+id/animation_view"
             android:layout_width="match_parent"
@@ -21,7 +21,4 @@
 
         </com.airbnb.lottie.LottieAnimationView>
     </RelativeLayout>
-
-
-
 </layout>
