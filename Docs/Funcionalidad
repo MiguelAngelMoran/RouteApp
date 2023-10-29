@@ -1,1 +1,19 @@
+Funcionalidades de la aplicación:
 
+Restricciones técnicas:
+
+Esta aplicación funcionará en dispositivos Android con sistema operativo versión 8 o superior.
+
+La información usada en la aplicación es de uso gratuito y será obtenida desde play store.
+
+Cualquier información enviada por el usuario será almacenada de forma local en el dispositivo.
+
+Funcionalidades de usuario:
+
+RouteApp permitirá al usuario:
+
+* Registrarse en la aplicación con sus datos personales y correo electrónico.
+* Restablecer su contraseña en caso de haber olvidado la misma.
+* Podrá notificarse de la ruta a cumplir durante cada jornada de trabajo.
+* Durante el trayecto podrá solicitar asistencia técnica y de emergencia si lo requiere.
+* Una vez cumplido el trayecto programado en el día, el usuario reportará la culminación y demás novedades.
